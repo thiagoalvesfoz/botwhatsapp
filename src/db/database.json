@@ -1,0 +1,81 @@
+[
+  {
+    "id": "120363190844699792@g.us",
+    "group_name": "HB OTC",
+    "code": "HB",
+    "tax": 0.055
+  },
+  {
+    "id": "120363242520678738@g.us",
+    "group_name": "🐐",
+    "code": "CABRA",
+    "tax": 0.055
+  },
+  {
+    "id": "120363234629502230@g.us",
+    "group_name": "Dr. Gilberto claudia",
+    "code": "FC",
+    "tax": 0.062
+  },
+  {
+    "id": "595985510951-1613658268@g.us",
+    "group_name": "FEFE CONF JAGA",
+    "code": "FEFE",
+    "tax": null
+  },
+  {
+    "id": "120363161998793641@g.us",
+    "group_name": "GG",
+    "code": "FC",
+    "tax": 0.062
+  },
+  {
+    "group_name": "Fechamento Iconi",
+    "code": "JD USDT",
+    "tax": 0.06
+  },
+  {
+    "id": "120363254743630061@g.us",
+    "group_name": "JK JAGA",
+    "code": "JK TIAG",
+    "tax": 0.07
+  },
+  {
+    "id": "120363213087244467@g.us",
+    "group_name": "Otc word",
+    "code": "AN",
+    "tax": 0.12
+  },
+  {
+    "group_name": "Otc LD",
+    "code": "LEO DIAS",
+    "tax": 0.065
+  },
+  {
+    "group_name": "Go otc",
+    "code": "GOR",
+    "tax": 0.055
+  },
+  {
+    "group_name": null,
+    "code": "ALIN",
+    "tax": 0.06
+  },
+  {
+    "group_name": "Anderson. Solo",
+    "code": "ANDER",
+    "tax": 0.065
+  },
+  {
+    "id": "120363192742627724@g.us",
+    "group_name": "Tony RR",
+    "code": "RR",
+    "tax": null
+  },
+  {
+    "id": "120363250221225452@g.us",
+    "group_name": "Teste Bot",
+    "code": "TB",
+    "tax": 0.062
+  }
+]
